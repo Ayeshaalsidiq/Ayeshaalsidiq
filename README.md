@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
   <h1><samp>Ayesha Al Sidiq</samp></h1>
   <h3><samp>Frontend Developer & UI/UX Designer</samp></h3>
   <code>Crafting digital experiences with clean code & design</code>
@@ -56,7 +54,7 @@
 
 <h2 align="center"><samp>Activity Graph</samp></h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayeshaalsidiq&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&title_color=ffffff&axes_color=ffffff" />
+  <img src="https://ghchart.rshah.org/Ayeshaalsidiq" alt="Activity Graph" />
 </div>
 
 ---
