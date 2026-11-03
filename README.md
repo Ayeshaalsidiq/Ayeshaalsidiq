@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRjNDVyeW1iYndzeHhnMWUyb3lxZnJidDI0cWQ5bmYzcnNncnJsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRjNDVyeW1iYndzeHhnMWUyb3lxZnJidDI0cWQ5bmYzcnNncnJsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="50%" />
 
   <h1><samp>Ayesha Al Sidiq</samp></h1>
   <h3><samp>Frontend Developer & UI/UX Designer</samp></h3>
