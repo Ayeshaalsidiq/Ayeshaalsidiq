@@ -1,15 +1,9 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-  
-  # Hi, I'm Ayesha Al Sidiq <img src="https://user-images.githubusercontent.com/74038290/212750338-078d2ce0-5b18-4bfc-84af-5028e6a75a23.gif" width="40" />
-  
-  <h3>A passionate Frontend Developer from Indonesia 🇮🇩</h3>
-  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Frontend+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-  
+
   <br>
-  
+
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayeshaalsidiq.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsidiqayesha@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayeshaalsidiq)
@@ -19,25 +13,31 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVqy7B6pG/giphy.gif" alt="Coding Animation" />
-</div>
+## 🚀 About Me
+
+I am an Information Systems undergraduate at Telkom University (Class of 2027) with a strong passion for crafting intuitive, responsive, and user-centric digital experiences. While I have comprehensive full-stack experience, my primary focus and expertise lie in Frontend Development and UI/UX design for both web and mobile applications.
+
+💼 Currently working on: Engineering enterprise mobile solutions (Dara Mobile Apps) for iOS and Android, and developing comprehensive web portals, event registration systems, and mobile applications for IATMI.
+
+🛠️ What I do: I specialize in translating complex wireframes and UI/UX designs into seamless, high-performance applications using React Native, Expo, and modern web frameworks.
+
+📱 Experience: I have built interactive interfaces across various sectors, ranging from industrial operational dashboards for pressure testing and leak detection (Pertamina Alliots), to interactive e-commerce platforms (CarTukar) and gamified fitness apps (LARIA Mobile).
+
+🔭 Always exploring: The latest modern frontend design trends, mobile UI optimizations, and cross-platform performance improvements.
+
+💻 My setup: macOS, VS Code, and Cursor.
 
 ---
 
-## 🚀 About Me
+## 🛠️ Tech Stack & Tools
 
-```javascript
-const ayesha = {
-  location: "Indonesia 🇮🇩",
-  code: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js"],
-  tools: ["Git", "VS Code", "Figma", "Tailwind CSS", "Sass"],
-  currentFocus: "Building modern and responsive web applications",
-  funFact: "I think I am Spiderman! 🕷️"
-};
+**Frontend & Mobile:** React Native, Expo, HTML/CSS/JS, UI/UX Wireframing & Prototyping
 
-console.log("Welcome to my world! 🚀");
-```
+**Full-Stack Ecosystem:** Laravel, Express.js, Node.js
+
+**Databases:** PostgreSQL
+
+**Environment & Tools:** macOS, VS Code, Cursor, Git
 
 ---
 
@@ -58,17 +58,20 @@ console.log("Welcome to my world! 🚀");
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack Icons
 
 <div align="center">
 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="React Native" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="Expo" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
@@ -77,7 +80,7 @@ console.log("Welcome to my world! 🚀");
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -87,7 +90,7 @@ console.log("Welcome to my world! 🚀");
 
 <div align="center">
   <br>
-  <p>Thank you for visiting! Feel free to reach out if you'd like to collaborate! 🤝</p>
+  <p>Let's connect and build something amazing together! 🤝</p>
   <a href="mailto:alsidiqayesha@gmail.com">
     <img src="https://img.shields.io/badge/Get_in_Touch-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in Touch" />
   </a>
