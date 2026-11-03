@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I am an Information Systems undergraduate at Telkom University (Class of 2027) with a strong passion for crafting intuitive, responsive, and user-centric digital experiences. While I have comprehensive full-stack experience, my primary focus and expertise lie in Frontend Development and UI/UX design for both web and mobile applications.
+I am an Information Systems undergraduate at Telkom University with a strong passion for crafting intuitive, responsive, and user-centric digital experiences. While I have comprehensive full-stack experience, my primary focus and expertise lie in Frontend Development and UI/UX design for both web and mobile applications.
 
 💼 Currently working on: Engineering enterprise mobile solutions (Dara Mobile Apps) for iOS and Android, and developing comprehensive web portals, event registration systems, and mobile applications for IATMI.
 
