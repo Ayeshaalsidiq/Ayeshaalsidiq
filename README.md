@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRjNDVyeW1iYndzeHhnMWUyb3lxZnJidDI0cWQ5bmYzcnNncnJsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
   <h1><samp>Ayesha Al Sidiq</samp></h1>
   <h3><samp>Frontend Developer & UI/UX Designer</samp></h3>
@@ -11,7 +11,7 @@
 
 <h2 align="center"><samp> About Me</samp></h2>
 
-<img align="right" width="250" src="https://media.giphy.com/media/L1R1TVqy7B6pG/giphy.gif" alt="Coding">
+<img align="right" width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding">
 
 <p><samp>I am an Information Systems undergraduate at Telkom University (Class of 2027) with a strong passion for crafting intuitive, responsive, and user-centric digital experiences.</samp></p>
 
