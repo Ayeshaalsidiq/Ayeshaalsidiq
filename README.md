@@ -11,7 +11,7 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding">
 
-<p><samp>I am an Information Systems undergraduate at Telkom University (Class of 2027) with a strong passion for crafting intuitive, responsive, and user-centric digital experiences.</samp></p>
+<p><samp>I am an Information Systems undergraduate at Telkom University with a strong passion for crafting intuitive, responsive, and user-centric digital experiences.</samp></p>
 
 <p><samp>While I have comprehensive full-stack experience, my primary focus and expertise lie in <b>Frontend Development and UI/UX design</b> for both web and mobile applications.</samp></p>
 
